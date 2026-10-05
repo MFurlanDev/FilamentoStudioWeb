@@ -7,5 +7,5 @@ return [
         'user' => 'fsAdmin',
         'password' => 'FilamentoStudioNav@rra2000//',
         'charset' => 'utf8mb4',
-    ],
+    ]
 ];
